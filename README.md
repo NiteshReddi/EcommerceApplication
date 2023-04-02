@@ -1,6 +1,6 @@
 # Simple Backend eCommerce Application with SpringBoot and MySQL as database.
 
-This example app shows a simple eCommerce Application. Developed RestFul APIs using Spring Boot, JPA to interact with database, JMS, ActiveMQ to communicate between different microservices
+This example app shows a simple eCommerce Application. Developed RestFul APIs using Spring Boot, JPA to interact with database, JMS, ActiveMQ to communicate between different microservices.
 
 **Tools:** For this project it was necessary to use tools such as those shown below.
 
